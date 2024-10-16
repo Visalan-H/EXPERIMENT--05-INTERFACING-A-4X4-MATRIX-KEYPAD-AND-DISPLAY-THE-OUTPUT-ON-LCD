@@ -361,11 +361,11 @@ void key()
 }
 ```
 ## Output screen shots of proteus  :
- ![image](https://github.com/user-attachments/assets/46248b4a-9716-492c-af6b-7b15eeca1e03)
+![image](https://github.com/user-attachments/assets/1b24ca29-fc13-473c-994a-a5eae837f600)
 
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![image](https://github.com/user-attachments/assets/97cb76ad-4105-4816-8e7b-f328c3b27e13)
+![image](https://github.com/user-attachments/assets/c4d9d5bf-6506-4c82-b1ec-c06587bae8f9)
 
  
 ## Result :
