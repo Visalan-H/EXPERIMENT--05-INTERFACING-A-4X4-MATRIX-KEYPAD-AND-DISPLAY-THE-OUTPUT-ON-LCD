@@ -351,8 +351,6 @@ void key()
 }
 
 ```
-
-## CIRCUIT DIAGRAM 
 ## Output screen shots of proteus  :
  
  
