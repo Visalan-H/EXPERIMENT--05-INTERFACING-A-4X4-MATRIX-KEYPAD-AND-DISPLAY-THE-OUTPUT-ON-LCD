@@ -365,7 +365,7 @@ void key()
 
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![image](https://github.com/user-attachments/assets/c968a8a0-55c5-41f2-ad09-5070d4ec5a87)
+![image](https://github.com/user-attachments/assets/97cb76ad-4105-4816-8e7b-f328c3b27e13)
 
  
 ## Result :
